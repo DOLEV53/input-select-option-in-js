@@ -1,0 +1,74 @@
+body {
+
+background-image: url("../images/pic1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#container {
+
+    width: 500px;
+    height: 600px;
+    margin-left: 500px;
+    margin-top: 75px;
+    border: 2px solid #000;
+    border-radius: 20px;
+
+    box-shadow: inset 0px 1px 12px 6px rgba(0, 0, 0, 0.75);
+    background-color: blanchedalmond;
+
+}
+
+#id_h1 {
+
+text-align: center;
+
+}
+
+#id_h2 {
+
+margin-left: 135px;
+margin-top: 50px;
+
+}
+
+#root {
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+    
+}
+
+.class_write {
+
+text-align: center;
+font-size: 20px;
+margin-bottom: 20px;
+background-color: beige;
+
+}
+
+#id_button {
+    
+    width: 200px;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#mySelect {
+
+background-color: cadetblue;   
+text-align: center;
+font-size: 20px;
+margin-top: 30px;
+
+}
+
+
+
